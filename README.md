@@ -1,3 +1,3 @@
 
 # Lista 1 
-### 2 Periodo do curso de sistemas de informação
+### 2 periodo do curso de sistemas de informação 
